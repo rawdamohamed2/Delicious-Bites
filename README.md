@@ -20,8 +20,5 @@ Landing page for a restaurant, designed to showcase menu items, highlight the br
 ## 🚀 Live Demo  
 [View Demo](https://rawdamohamed2.github.io/Delicious-Bites/)  
 
-## 📸 Preview  
-*(Add screenshots of your project here)*  
-
 ## 👩‍💻 Developed By  
 **Rawda Mohamed Mahmoud** – Front-End Developer  
